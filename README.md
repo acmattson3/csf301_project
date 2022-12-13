@@ -1,4 +1,4 @@
-# csf301_project
+# CS F301 Fall 2022 Semester Project
 Writing malloc() with mmap and brk
 
 [Technical Blog Post](https://www.andrew-mattson.com/home/projects/coding/csf301_project)
