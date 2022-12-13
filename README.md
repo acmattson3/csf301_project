@@ -1,7 +1,7 @@
 # csf301_project
 Writing malloc with mmap and brk
 
-Technical blog post at https://www.andrew-mattson.com/home/projects/coding/csf301_project
+[Technical blog post](https://www.andrew-mattson.com/home/projects/coding/csf301_project)
 
 # malloc_brk.S:
 Includes a wrapper around the brk system function to allocate some bytes and a function to test them out.
