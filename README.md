@@ -5,10 +5,10 @@ Technical blog post at https://www.andrew-mattson.com/home/projects/coding/csf30
 
 # malloc_brk.S:
 Includes a wrapper around the brk system function to allocate some bytes and a function to test them out.
-    -Does not implement free
-    -Does not accept input
+- Does not implement free
+- Does not accept input
 
 # malloc_mmap.S:
 Includes a wrapper around the mmap system function to allocate some bytes and a function to test them out.
-    -Does not implement free
-    -Does not accept input
+- Does not implement free
+- Does not accept input
